@@ -2,8 +2,7 @@
 
 **Project Goal:** To develop a comprehensive business intelligence solution that transforms raw sales data into actionable insights, enabling data-driven decision making across customer segmentation, product performance, and marketing campaign effectiveness for a European fashion retailer.
 
-**
-SQL:**
+## **SQL:**
 - Weekly revenue tracking with cost analysis for profitability monitoring
 
 - Campaign effectiveness measurement across 7 major promotional events
@@ -13,9 +12,9 @@ SQL:**
 - Real-time product performance ranking system for inventory and marketing decisions
 
 
-**Power BI:**
+## **Power BI:**
 
-Revenue Performance Dashboard
+**Revenue Performance Dashboard**
 
 Line chart: Weekly revenue vs. cost trends
 
@@ -23,7 +22,7 @@ KPI cards: YTD revenue, profit margin, growth rate
 
 Week-over-week comparison analytics
 
-Marketing Campaign Analysis
+**Marketing Campaign Analysis**
 
 Horizontal bar chart: Revenue by campaign (Spring Flash Sale highest performer)
 
@@ -31,7 +30,7 @@ Campaign ROI calculations
 
 Customer acquisition cost per campaign
 
-Customer Intelligence Section
+**Customer Intelligence Section**
 
 Donut/bar chart: Revenue distribution by age groups
 
@@ -39,7 +38,7 @@ Donut/bar chart: Revenue distribution by age groups
 
 Demographic spending patterns analysis
 
-Product Performance Module
+**Product Performance Module**
 
 Dynamic table: Top 5 products by week with ranking
 
