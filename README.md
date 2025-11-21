@@ -1,2 +1,5 @@
 # Ecommerce-European-Fashion-Analysis-SQL
-Analyzing a European Fashion Company's Sales Data Using SQL and PowerBI
+
+Project Goal: To develop a comprehensive business intelligence solution that transforms raw sales data into actionable insights, enabling data-driven decision making across customer segmentation, product performance, and marketing campaign effectiveness for a European fashion retailer.
+
+
